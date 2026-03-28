@@ -57,7 +57,7 @@ This app connects to a private Node.js + Express backend that securely handles c
 
 ## 👨‍💻 Author
 Aveng George Lumilan
-Software Engineering Student | Registered Nurse | AI & Mobile Developer
+Software Engineering Student | AI & Mobile Developer | Registered Nurse
 📍 New York, USA
 🔗 GitHub
 
