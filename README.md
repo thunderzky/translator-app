@@ -27,69 +27,30 @@ It features intelligent translation powered by OpenAI, **text-to-speech**, **lan
 
 ## ✨ Features
 
-✅ **Real-Time Translation** — instantly translates any input text into the target language  
-✅ **Casual / Native Mode** — toggle to make translations sound natural and conversational  
-✅ **Text-to-Speech (TTS)** — plays the translated text with native pronunciation  
-✅ **Language Selector with Search** — quickly find and pick any language  
-✅ **Recent Languages List** — saves your most frequently used target languages  
-✅ **Translation History** — view your last few translations within the app  
-✅ **Expo-based Deployment** — works on iOS, Android, and Web
-✅ **Text translation
-✅ **OCR text extraction from images
-✅ **Casual/native phrasing mode
+- Real-time text translation
+- OCR text extraction from images
+- Text-to-speech playback
+- Casual / native phrasing mode
+- Language selector with search
+- Recent languages
+- Translation history
 
 
-## 🧠 Tech Stack
+## Tech Stack
+- Frontend: React Native, Expo, React Native Paper
+- Backend: Node.js, Express
+- AI Integration: OpenAI API
+- Other libraries: axios, expo-speech
 
-- **Frontend:** React Native, Expo, React Native Paper (UI)
-- **Backend:** Node.js + Express (OpenAI API integration)
-- **APIs:** OpenAI GPT models (translation & tone adjustment)
-- **Libraries:**  
-  - `axios` — HTTP requests  
-  - `expo-speech` — text-to-speech support  
-  - `@react-native-picker/picker` — dropdown selection  
-  - `react-native-paper` — UI components  
-  - `react-native-vector-icons` — icons  
+## Backend Integration
+This app connects to a private Node.js + Express backend that securely handles communication with the OpenAI API. The backend processes translation requests, tone adjustments, and related app features.
 
----
+> For security reasons, the backend code and API keys are not public.
 
-
-# Install dependencies
-npm install
-
-# Start the Expo development server
-npm run start
-# or
-expo start
-
-
----
-## 🧩 Project Structure
-translator-app/
-
-├── App.js                 # Main app logic and UI
-├── LanguageSelector.js    # Modal component for selecting languages
-├── index.js               # Entry point
-├── package.json           # Dependencies and scripts
-├── app.json               # Expo project configuration
-├── assets/                # Icons, splash, and background images
-└── .gitignore
-
----
-
-### 🌐 Backend Integration
-
-This app connects to a private **Node.js + Express** backend that securely handles communication with the **OpenAI API**.  
-The backend is responsible for processing translation requests, adjusting tone (casual/native), and returning AI-generated text responses to the app.  
-
-> ⚠️ For security reasons, the backend code and API keys are not public.
-
-
----
-
-## 💡 Future Improvements
-
-🚀 Publish to App Store and Google Play
+## Future Improvements
+- Publish to App Store
+- Publish to Google Play
+- Additional UI polish and feature refinement
 
 
 ---
