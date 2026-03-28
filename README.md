@@ -27,8 +27,8 @@ It features intelligent translation powered by OpenAI, **text-to-speech**, **lan
 ## Screenshots
 
 <p align="center">
-  <img src="assets/sample.png.png" alt="Translation screen" width="250"/>
-  <img src="assets/sample2.png.png" alt="Translation screen" width="250"/>
+  <img src="assets/sc1.png" alt="Translation screen" width="250"/>
+  <img src="assets/sc2.png" alt="Translation screen" width="250"/>
 </p>
 
 ## ✨ Features
