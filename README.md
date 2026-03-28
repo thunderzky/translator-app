@@ -2,7 +2,7 @@
   <img src="https://github.com/thunderzky/translator-app/blob/main/assets/icon.png" width="120" alt="Translator App Logo">
 </p>
 
-<h1 align="center">🌍 Translator App</h1>
+<h1 align="center">🌍 Casual Translator</h1>
 
 <p align="center">
   A modern <b>React Native + Expo</b> mobile translator powered by <b>OpenAI</b>.<br/>
