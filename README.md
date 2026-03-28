@@ -24,6 +24,12 @@ A cross-platform **mobile translation app** built with **React Native** and **Ex
 It features intelligent translation powered by OpenAI, **text-to-speech**, **language detection**, and an optional **casual phrasing** mode for more conversational translations.
 
 ---
+## Screenshots
+
+<p align="center">
+  <img src="assets/IMG_0530.png.png" alt="Home screen" width="250"/>
+  <img src="assets/IMG_0533.png.png" alt="Translation screen" width="250"/>
+</p>
 
 ## ✨ Features
 
